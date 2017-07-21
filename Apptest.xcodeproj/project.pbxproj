@@ -12,6 +12,7 @@
 		275D8E811F22521B009C7933 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 275D8E7F1F22521B009C7933 /* Main.storyboard */; };
 		275D8E831F22521B009C7933 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 275D8E821F22521B009C7933 /* Assets.xcassets */; };
 		275D8E861F22521B009C7933 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 275D8E841F22521B009C7933 /* LaunchScreen.storyboard */; };
+		275D8E8E1F225459009C7933 /* Apptest.png in Resources */ = {isa = PBXBuildFile; fileRef = 275D8E8D1F225459009C7933 /* Apptest.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		275D8E821F22521B009C7933 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		275D8E851F22521B009C7933 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		275D8E871F22521B009C7933 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		275D8E8D1F225459009C7933 /* Apptest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Apptest.png; path = ../../../../../../Desktop/Apptest.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				275D8E7B1F22521B009C7933 /* AppDelegate.swift */,
 				275D8E7D1F22521B009C7933 /* ViewController.swift */,
 				275D8E7F1F22521B009C7933 /* Main.storyboard */,
+				275D8E8D1F225459009C7933 /* Apptest.png */,
 				275D8E821F22521B009C7933 /* Assets.xcassets */,
 				275D8E841F22521B009C7933 /* LaunchScreen.storyboard */,
 				275D8E871F22521B009C7933 /* Info.plist */,
@@ -125,6 +128,7 @@
 				275D8E861F22521B009C7933 /* LaunchScreen.storyboard in Resources */,
 				275D8E831F22521B009C7933 /* Assets.xcassets in Resources */,
 				275D8E811F22521B009C7933 /* Main.storyboard in Resources */,
+				275D8E8E1F225459009C7933 /* Apptest.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
